@@ -162,3 +162,7 @@ Do NOT use this code to protect data (private or otherwise) - at present it is v
 [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/master/LICENSE)
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FPySyft.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2FPySyft?ref=badge_large)
+
+## Purpose
+
+This branch is for HPE-UFCG use
